@@ -1,0 +1,12 @@
+.card{
+    margin-left: 490px;
+    margin-top: 40px;
+    background-color: rgb(124, 197, 212);
+}
+.card-img-top{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+body{
+    background-color: aqua;
+}
